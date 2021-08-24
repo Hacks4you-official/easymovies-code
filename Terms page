@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<title>EasyMovies</title>
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body {
+        background-color: rgb(37, 37, 37);
+        font-family: arial;
+    }
+
+    .idk {
+        font-family: arial;
+        color: white;
+        font-size: 32pt;
+        text-decoration: none;
+        text-align: left;
+        padding: 16pt;
+    }
+
+    .menu {
+        font-family: arial;
+        font-size: 32pt;
+        color: blue;
+        text-decoration: none;
+        text-align: right;
+    }
+</style>
+
+<div class="menu">
+    <a href="index.html" style="float: left;"><b>EasyMovies</b></a>
+    <a href="pages/terms.html">TERMS</a>
+</div>
+
+<div class="idk">
+    <span>Please do not share our website with someone you dont trust</span>
+    <br>
+    <span>Thanks for visiting our site,</span>
+    <span>Keep our site away from hackers.</span>
+    <br>
+    <span>website by 11Yr old</span>
+    <br>
+    <br>
+    <span style="font-family: roboto">Controls</span>
+    <br>
+    <span>Click the name upunder the video to see full screen.</span>
+</div>
+
+</body>
+</html>
