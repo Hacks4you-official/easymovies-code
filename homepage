@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<title>EasyMovies</title>
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body {
+        background-color: rgb(37, 37, 37);
+        font-family: arial;
+    }
+
+    .idk {
+        font-family: arial;
+        color: white;
+        font-size: 32pt;
+        text-decoration: none;
+        text-align: left;
+        padding: 16pt;
+    }
+
+    .menu {
+        font-family: arial;
+        font-size: 32pt;
+        color: blue;
+        text-decoration: none;
+        text-align: right;
+    }
+</style>
+
+<div class="menu">
+    <span style="float: left;"><b>EasyMovies</b></span>
+    <a href="terms.html">TERMS</a>
+</div>
+
+
+<div class="idk">
+    
+    
+    <br>
+    <br>
+
+    <video width="400" controls>
+        <source src="Movies/Shrek.mp4" type="video/mp4">
+        Your browser does not support HTML video.
+      </video>
+      <br>
+      <a href="Movies/Shrek.mp4">Shrek 2001</a>
+</div>
+
+<div class="idk">
+    
+    <br>
+    <br>
+
+    <video width="400" controls>
+        <source src="Movies/SLOP.mp4" type="video/mp4">
+        Your browser does not support HTML video.
+      </video>
+      <br>
+      <a href="Movies/SLOP.mp4">Secret life of pets 2016</a>
+      <br>
+      <br>
+      <span>More movies coming soon :)</span>
+</div>
+
+</body>
+</html>
